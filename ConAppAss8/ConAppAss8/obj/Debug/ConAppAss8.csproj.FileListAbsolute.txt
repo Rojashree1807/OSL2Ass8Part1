@@ -1,0 +1,7 @@
+E:\Phase2 Assignment\Ass8\ConAppAss8\ConAppAss8\bin\Debug\ConAppAss8.exe.config
+E:\Phase2 Assignment\Ass8\ConAppAss8\ConAppAss8\bin\Debug\ConAppAss8.exe
+E:\Phase2 Assignment\Ass8\ConAppAss8\ConAppAss8\bin\Debug\ConAppAss8.pdb
+E:\Phase2 Assignment\Ass8\ConAppAss8\ConAppAss8\obj\Debug\ConAppAss8.csproj.AssemblyReference.cache
+E:\Phase2 Assignment\Ass8\ConAppAss8\ConAppAss8\obj\Debug\ConAppAss8.csproj.CoreCompileInputs.cache
+E:\Phase2 Assignment\Ass8\ConAppAss8\ConAppAss8\obj\Debug\ConAppAss8.exe
+E:\Phase2 Assignment\Ass8\ConAppAss8\ConAppAss8\obj\Debug\ConAppAss8.pdb
